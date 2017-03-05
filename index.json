@@ -1,15 +1,15 @@
 [
   {
     "uid": "EXAMPLE_CHANNEL_MULTI_ITEM_JSON_TTS_1",
-    "updateDate": "2016-04-10T00:00:00.0Z",
-    "titleText": "Multi Item JSON (TTS)",
+    "updateDate": "2017-03-05T19:00:00.0Z",
+    "titleText": "High Tide",
     "mainText": "High tide will be at 20:20",
     "redirectionUrl": "https://skysteve.github.io/alexa-tide-times-river-tees-entrance/"
    },
   {
     "uid": "EXAMPLE_CHANNEL_MULTI_ITEM_JSON_TTS_2",
-    "updateDate": "2016-04-10T00:00:00.0Z",
-    "titleText": "Multi Item JSON (TTS)",
+    "updateDate": "2017-03-05T19:00:00.0Z",
+    "titleText": "Low tide",
     "mainText": "Low tide is at 10:10",
     "redirectionUrl": "https://skysteve.github.io/alexa-tide-times-river-tees-entrance/"
   }
